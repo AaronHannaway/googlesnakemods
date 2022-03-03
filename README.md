@@ -1,4 +1,4 @@
-# Google Snake Custom Menu Stuff
+# Google Snake Custom Menu Modification
 
 ## Enable the Mod
 Paste the code from `custom.js` into the console, then type in the console:
